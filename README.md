@@ -15,3 +15,5 @@ Because the font lives under `./theme/fonts/`, it will automatically be added to
 It also unlocks the `resource` helper to find its name in the output files.
 
 I believe using `resource` inside the `url()` css function resolves [the original issue](https://github.com/rust-lang/mdBook/issues/2958) and renders [this PR](https://github.com/rust-lang/mdBook/issues/2958) irrelevant.
+
+[Check it out on Github Pages](https://chocorean.github.io/mdbook_url_rewrite_poc/)
