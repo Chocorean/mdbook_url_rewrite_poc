@@ -1,0 +1,6 @@
+[book]
+authors = ["Chocorean"]
+language = "en"
+
+[output.html]
+# additional-css = ["src/theme/css/custom.css"]

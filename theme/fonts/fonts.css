@@ -1,0 +1,4 @@
+@font-face {
+    font-family: 'custom-font';
+    src: url('{{ resource "fonts/Roboto.ttf" }}') format('truetype');
+}
